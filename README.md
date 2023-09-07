@@ -1,6 +1,6 @@
-### Hi there, I'm Vladislav Lychak - data scientist 👋
+### Hi there, I'm Vladislav Lychak - data scientist and psychologist 👋
 
-I'm an aspiring data scientist and psychologist. I dream of making psychotherapy more accessible thanks to AI.
+I dream of making psychotherapy more accessible thanks to AI.
 
 **Languages and Tools:**
 
