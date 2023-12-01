@@ -6,7 +6,6 @@ I dream of making psychotherapy more accessible thanks to AI.
 
 Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Sklearn, Keras, XGBoost, LightGBM, CatBoost, SQL.
 
-- 🔭 I’m currently working on [Doct24](https://doct24.com/) as a Data Science Intern
 - 🌱 I’m currently studying at [InPsycho](https://inpsycho.ru/) (magistracy)
 - 👯 I’m looking to collaborate on psychotherapeutic NN
 
