@@ -7,7 +7,7 @@ I dream of making psychotherapy more accessible thanks to AI.
 Python, SQL, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Sklearn, Keras, TensorFlow, XGBoost, LightGBM, CatBoost, PyTorch, Transformers.
 
 - 🌱 I’m currently studying at [InPsycho](https://inpsycho.ru/) (magistracy)
-- 👯 I’m looking to collaborate on psychotherapeutic NN
+- 👯 I’m looking to collaborate on psychotherapeutic AI projects
 
 **Connect with me:** [t.me](https://t.me/vladislav_lychak)
 
