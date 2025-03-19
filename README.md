@@ -1,6 +1,4 @@
-### Hi there, I'm Vladislav Lychak - data scientist and psychologist 👋
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Vladislav+Lychak;Data+Scientist+and+Psychologist&multiline=true&center=false&width=500&height=60&duration=1500&pause=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Vladislav+Lychak;Data+Scientist+and+Psychologist&multiline=true&center=false&width=500&height=60&duration=1500&pause=500)](https://git.io/typing-svg)
 
 I dream of making psychotherapy more accessible thanks to AI.
 
