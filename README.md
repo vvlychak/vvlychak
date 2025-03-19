@@ -6,14 +6,14 @@ I dream of making psychotherapy more accessible thanks to AI.
 
 Python, SQL, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Sklearn, Keras, TensorFlow, XGBoost, LightGBM, CatBoost, PyTorch, Transformers.
 
+- 🌱 I’m currently studying at [InPsycho](https://inpsycho.ru/) (magistracy)
+- 👯 I’m looking to collaborate on psychotherapeutic AI projects
+
+**Connect with me:** [t.me](https://t.me/vladislav_lychak)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvlychak&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vvlychak&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvlychak&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvlychak&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vvlychak&theme=default)
-
-- 🌱 I’m currently studying at [InPsycho](https://inpsycho.ru/) (magistracy)
-- 👯 I’m looking to collaborate on psychotherapeutic AI projects
-
-**Connect with me:** [t.me](https://t.me/vladislav_lychak)
 
