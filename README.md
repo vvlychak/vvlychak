@@ -19,7 +19,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/vvlychak)
 
 ## 🚀 About Me
-- 𝚿 Master's student at [InPsycho](https://inpsycho.ru/)
+- 𝚿 🧠 Master's student at [InPsycho](https://inpsycho.ru/)
 - 👨🏻‍💻 Data Scientist at [NIIOZ](https://niioz.ru/)
 - 👥 Looking to collaborate on psychotherapeutic AI projects
 - 🤖 Dream of making psychotherapy more accessible thanks to AI
