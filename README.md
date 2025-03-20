@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Vladislav+Lychak;Data+Scientist+and+Psychologist&multiline=true&center=false&width=500&height=60&duration=1500&pause=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Vladislav+Lychak;Data+Scientist+and+Psychologist&multiline=true&center=false&width=500&height=60&duration=1500&pause=500)](https://git.io/typing-svg)
 
 ## 🛠 Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://github.com/vvlychak)
