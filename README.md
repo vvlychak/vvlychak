@@ -14,9 +14,13 @@ Python, SQL, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Sklearn, Keras, TensorFl
 
 [![[Telegram]](https://t.me/vladislav_lychak)]
 
+<details>
+<summary><b style="font-size: 20px;">📊 GitHub Stats</b></summary>
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvlychak&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vvlychak&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvlychak&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvlychak&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vvlychak&theme=default)
 
+</details>
