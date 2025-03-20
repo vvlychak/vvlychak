@@ -16,10 +16,11 @@
 [![CatBoost](https://img.shields.io/badge/CatBoost-FF6D00?style=for-the-badge&logo=catboost&logoColor=white)](https://github.com/vvlychak)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/vvlychak)
 [![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://github.com/vvlychak)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/vvlychak)
 
 ## 🚀 About Me
 - 𝚿 Master's student at [InPsycho](https://inpsycho.ru/)
-- 👯 I’m looking to collaborate on psychotherapeutic AI projects
+- 👥 I’m looking to collaborate on psychotherapeutic AI projects
 - 🤖 I dream of making psychotherapy more accessible thanks to AI
 
 ## 🤝 Contacts
