@@ -19,9 +19,9 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/vvlychak)
 
 ## 🚀 About Me
-- 𝚿 Master's student at [InPsycho](https://inpsycho.ru/)
-- 👥 I’m looking to collaborate on psychotherapeutic AI projects
-- 🤖 I dream of making psychotherapy more accessible thanks to AI
+- 🧠 𝚿 Master's student at [InPsycho](https://inpsycho.ru/)
+- 👥 Looking to collaborate on psychotherapeutic AI projects
+- 🤖 Dream of making psychotherapy more accessible thanks to AI
 
 ## 🤝 Contacts
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladislav_lychak)
