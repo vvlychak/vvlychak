@@ -9,7 +9,7 @@ Python, SQL, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Sklearn, Keras, TensorFl
 - 𝚿🧠 I dream of making psychotherapy more accessible thanks to AI
 
 ## 🤝🏻 Contacts
-[Telegram](https://t.me/vladislav_lychak)
+[![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladislav_lychak)
 
 <details>
 <summary><b style="font-size: 20px;">📊 GitHub Stats</b></summary>
