@@ -10,7 +10,7 @@ Python, SQL, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Sklearn, Keras, TensorFl
 
 ## 🤝🏻 Contacts
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladislav_lychak)
-[![Telegram](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vvlychak)
+[![Telegram](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vvlychak)
 
 <details>
 <summary><b style="font-size: 20px;">📊 GitHub Stats</b></summary>
