@@ -18,7 +18,7 @@
 [![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://github.com/vvlychak)
 
 ## 🚀 About Me
-- 🌱 I’m currently studying at [InPsycho](https://inpsycho.ru/) (magistracy)
+- 🌱 Master's student at [InPsycho](https://inpsycho.ru/)
 - 👯 I’m looking to collaborate on psychotherapeutic AI projects
 - 𝚿🧠 I dream of making psychotherapy more accessible thanks to AI
 
