@@ -21,7 +21,7 @@
 ## 🚀 About Me
 - 𝚿 🧠 Master's student at [InPsycho](https://inpsycho.ru/)
 - 👨🏻‍💻 Data Scientist at [NIIOZ](https://niioz.ru/)
-- 👥 Looking to collaborate on psychotherapeutic AI projects
+- 👥 Looking for collaboration in psychotherapeutic AI projects
 - 🤖 Dream of making psychotherapy more accessible thanks to AI
 
 ## 🤝 Contacts
