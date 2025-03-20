@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Vladislav+Lychak;Data+Scientist+and+Psychologist&multiline=true&center=false&width=500&height=60&duration=1500&pause=500)](https://git.io/typing-svg)
 
+## 🚀 About Me
+- 𝚿 🧠 Master's student at [InPsycho](https://inpsycho.ru/)
+- 👨🏻‍💻 Data Scientist at [NIIOZ](https://niioz.ru/)
+- 👥 Looking for collaboration in psychotherapeutic AI projects
+- 🤖 Dream of making psychotherapy more accessible thanks to AI
+
 ## 🛠 Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://github.com/vvlychak)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/vvlychak)
@@ -17,12 +23,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/vvlychak)
 [![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://github.com/vvlychak)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/vvlychak)
-
-## 🚀 About Me
-- 𝚿 🧠 Master's student at [InPsycho](https://inpsycho.ru/)
-- 👨🏻‍💻 Data Scientist at [NIIOZ](https://niioz.ru/)
-- 👥 Looking for collaboration in psychotherapeutic AI projects
-- 🤖 Dream of making psychotherapy more accessible thanks to AI
 
 ## 🤝 Contacts
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladislav_lychak)
