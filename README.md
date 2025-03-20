@@ -11,8 +11,11 @@
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/vvlychak)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/vvlychak)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/vvlychak)
-
-Python, SQL, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Sklearn, Keras, TensorFlow, XGBoost, LightGBM, CatBoost, PyTorch, Transformers.
+[![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logo=xgboost&logoColor=white)](https://github.com/vvlychak)
+[![LightGBM](https://img.shields.io/badge/LightGBM-689C94?style=for-the-badge&logo=lightgbm&logoColor=white)](https://github.com/vvlychak)
+[![CatBoost](https://img.shields.io/badge/CatBoost-FF6D00?style=for-the-badge&logo=catboost&logoColor=white)](https://github.com/vvlychak)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/vvlychak)
+[![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://github.com/vvlychak)
 
 ## 🚀 About Me
 - 🌱 I’m currently studying at [InPsycho](https://inpsycho.ru/) (magistracy)
