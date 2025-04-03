@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Vladislav+Lychak;Data+Scientist+and+Psychologist&multiline=true&center=false&width=500&height=60&duration=1500&pause=500)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-- 🧠 Master's student at [InPsycho](https://inpsycho.ru/)
+- 🧠 Psychologist master's student at [InPsycho](https://inpsycho.ru/)
 - 👨🏻‍💻 Data Scientist at [NIIOZ](https://niioz.ru/)
 - 👥 Looking for collaboration in psychotherapeutic AI projects
 - 🤖 Dream of making psychotherapy more accessible thanks to AI
