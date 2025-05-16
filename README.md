@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🧠 Psychologist master's student at [InPsycho](https://inpsycho.ru/)
 - 👨🏻‍💻 Data Scientist at [NIIOZ](https://niioz.ru/)
-- 👥 Looking for collaboration in AI psychotherapy projects
+- 👥 Looking for collaboration in psychotherapy AI projects
 - 🤖 Dream of making psychotherapy more accessible thanks to AI
 
 ## 🛠 Skills
