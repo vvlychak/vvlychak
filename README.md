@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Vladislav+Lychak;Data+Scientist+and+Psychologist&multiline=true&center=false&width=500&height=60&duration=1500&pause=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Vladislav+Lychak;Data+Scientist,+AI+Engineer+and+Psychologist&multiline=true&center=false&width=500&height=60&duration=1500&pause=500)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 - 🧠 Master of Psychology
 - 👨🏻‍💻 Data Scientist and AI Engineer at [NIIOZ](https://niioz.ru/)
-- 👥 Looking for collaboration in psychotherapy AI projects
+- 👥 Looking for collaboration in psychological AI projects
 - 🤖 Dream of making psychotherapy more accessible thanks to AI
 
 ## 🛠 Skills
