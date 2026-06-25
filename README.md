@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🧠 Master of Psychology
-- 👨🏻‍💻 Data Scientist at [NIIOZ](https://niioz.ru/)
+- 👨🏻‍💻 Data Scientist and AI Engineer at [NIIOZ](https://niioz.ru/)
 - 👥 Looking for collaboration in psychotherapy AI projects
 - 🤖 Dream of making psychotherapy more accessible thanks to AI
 
